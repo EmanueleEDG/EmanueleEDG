@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Emanuele Gentile, I am a <font color="red"><del>curious dolphin</del></font> curious guy who loves to develop and wants to acquire as many computer skills as possible.
+## Hi there 👋
+I'm Emanuele Gentile, I am a curious <del>dolphin</del> guy who loves to develop and wants to acquire as many computer skills as possible.
 
 
 
